@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "myconfessions"
+  site-url: "https://blaxpyda.github.io/myconfessions"
+  description: "Anything ah anything"
+  repo-branch: main
+  repo-url: "https://github.com/blaxpyda/myconfessions"
